@@ -52,7 +52,7 @@ More content types than API documentation (such as agent skills) are on the road
 | Command | Purpose |
 |---------|---------|
 | `chub search [query]` | Search docs and skills (no query = list all) |
-| `chub get <id> [--lang py|js]` | Fetch docs or skills by ID |
+| `chub get <id> [--lang py\|js]` | Fetch docs or skills by ID |
 | `chub annotate <id> <note>` | Attach a note to a doc or skill |
 | `chub annotate <id> --clear` | Remove annotations |
 | `chub annotate --list` | List all annotations |
